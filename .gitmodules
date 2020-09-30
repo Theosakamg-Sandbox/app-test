@@ -4,3 +4,6 @@
 [submodule "libs/lib-test-b_mick"]
 	path = libs/lib-test-b_mick
 	url = git@github.com:Theosakamg-Sandbox/lib-test-b_mick-.git
+[submodule "libs/lib-test-b-oozudex"]
+	path = libs/lib-test-b-oozudex
+	url = git@github.com:Oozudex/lib-test-b.git
